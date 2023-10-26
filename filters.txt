@@ -10,3 +10,6 @@ miro.com##.bigApp-EX-mG
 ! 2023-10-26 https://www.techtarget.com
 www.techtarget.com###pillar-ribbon
 www.techtarget.com###rail-share-bar
+
+! 2023-10-26 https://studyflix.de
+studyflix.de##.-sticky.up-can-clean.player-toggle
