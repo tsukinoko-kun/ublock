@@ -1,15 +1,16 @@
-! 2023-10-22 https://www.deepl.com
 www.deepl.com###headlessui-portal-root
 
-! 2023-10-24 https://stackoverflow.com
 stackoverflow.com##.is-visible.js-notice-sidebar-popover.p0.bc-orange-400.btw3.bt.baw0.h\:bs-lg.bs-sm.bar-md.s-card.ws2.sm\:d-none.s-popover
 
-! 2023-10-25 https://miro.com
 miro.com##.bigApp-EX-mG
 
-! 2023-10-26 https://www.techtarget.com
 www.techtarget.com###pillar-ribbon
 www.techtarget.com###rail-share-bar
 
-! 2023-10-26 https://studyflix.de
 studyflix.de##.-sticky.up-can-clean.player-toggle
+
+kinox.id##.blackMirror
+
+en.wikipedia.org###wmde-banner-app
+
+buddy.works##.left-4.custom-lg\:block.custom-lg\:max-w-\[30rem\].shadow-custom-xl.rounded-lg.bg-white.bottom-4.z-\[101\].hidden.fixed
