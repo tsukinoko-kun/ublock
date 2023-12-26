@@ -1,5 +1,6 @@
 [Frank-Mayer ublock]
 ! Title: Frank-Mayer/ublock - Blocklist
+! Homepage: https://github.com/Frank-Mayer/ublock
 ! GitHub pull requests: https://github.com/Frank-Mayer/ublock/pulls
 
 www.deepl.com###headlessui-portal-root
