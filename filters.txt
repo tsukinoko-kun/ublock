@@ -1,3 +1,7 @@
+[Frank-Mayer ublock]
+! Title: Frank-Mayer/ublock - Blocklist
+! GitHub pull requests: https://github.com/Frank-Mayer/ublock/pulls
+
 www.deepl.com###headlessui-portal-root
 
 stackoverflow.com##.is-visible.js-notice-sidebar-popover.p0.bc-orange-400.btw3.bt.baw0.h\:bs-lg.bs-sm.bar-md.s-card.ws2.sm\:d-none.s-popover
