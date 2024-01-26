@@ -5,6 +5,8 @@
 
 www.deepl.com###headlessui-portal-root
 
+www.youtube.com###tp_updateToast > div
+
 stackoverflow.com##.is-visible.js-notice-sidebar-popover.p0.bc-orange-400.btw3.bt.baw0.h\:bs-lg.bs-sm.bar-md.s-card.ws2.sm\:d-none.s-popover
 
 miro.com##.bigApp-EX-mG
@@ -16,8 +18,13 @@ studyflix.de##.-sticky.up-can-clean.player-toggle
 
 kinox.id##.blackMirror
 
+www.qrcode-monkey.com##.original-variant.wrapper > .content > .info
+
 en.wikipedia.org###wmde-banner-app
+www.wikipedia.de##.wmde-banner-mini
 
 buddy.works##.left-4.custom-lg\:block.custom-lg\:max-w-\[30rem\].shadow-custom-xl.rounded-lg.bg-white.bottom-4.z-\[101\].hidden.fixed
 
 www.studienkreis.de##.sticky-footer--is-visible.js-sticky-footer.sticky-footer
+
+www.reddit.com###credential_picker_container
