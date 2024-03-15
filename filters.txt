@@ -30,3 +30,11 @@ buddy.works##.left-4.custom-lg\:block.custom-lg\:max-w-\[30rem\].shadow-custom-x
 www.studienkreis.de##.sticky-footer--is-visible.js-sticky-footer.sticky-footer
 
 www.reddit.com###credential_picker_container
+
+twitter.com###credential_picker_container
+
+store.steampowered.com##.broadcast_embed_top_ctn_trgt
+
+dev.to##.right-0.left-0.bottom-0.fixed.js-billboard.crayons-story__billboard.popover-billboard.crayons-sponsorship.crayons-card--secondary.crayons-card
+
+www.flexispot.de###gdprMask
