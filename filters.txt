@@ -1,7 +1,7 @@
 [Frank-Mayer ublock]
-! Title: Frank-Mayer/ublock - Blocklist
-! Homepage: https://github.com/Frank-Mayer/ublock
-! GitHub pull requests: https://github.com/Frank-Mayer/ublock/pulls
+! Title: tsukinoko-kun/ublock - Blocklist
+! Homepage: https://github.com/tsukinoko-kun/ublock
+! GitHub pull requests: https://github.com/tsukinoko-kun/ublock/pulls
 
 www.deepl.com###headlessui-portal-root
 
@@ -17,6 +17,8 @@ www.techtarget.com###rail-share-bar
 twitter.com###credential_picker_container
 
 studyflix.de##.-sticky.up-can-clean.player-toggle
+studyflix.de###vjs_video_3 > .vjs-tech
+studyflix.de##.-learning.video-player
 
 kinox.id##.blackMirror
 
