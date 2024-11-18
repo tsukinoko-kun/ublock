@@ -40,3 +40,5 @@ store.steampowered.com##.broadcast_embed_top_ctn_trgt
 dev.to##.right-0.left-0.bottom-0.fixed.js-billboard.crayons-story__billboard.popover-billboard.crayons-sponsorship.crayons-card--secondary.crayons-card
 
 www.flexispot.de###gdprMask
+
+chatgpt.com##.shadow-xxs.lg\:mx-auto.md\:items-center.dark\:bg-token-main-surface-secondary.dark\:border-transparent.\[text-wrap\:pretty\].text-token-text-primary.text-sm.pr-3.pl-5.py-4.bg-token-main-surface-primary.border-token-border-light.border.rounded-2xl.gap-4.items-start.w-full.flex
